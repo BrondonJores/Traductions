@@ -1,5 +1,6 @@
 ﻿l_french:
 
-    GENERIC_FLAVOR_TEXT:0 "La Guerre froide est une période de tension géopolitique entre le bloc de l'Est et le bloc de l'Ouest. Quels nouveaux défis cette époque apportera-t-elle ?"
-    REV_GENERIC_FLAVOR_TEXT:1 "Mécontents de la direction prise par le soi-disant gouvernement organisé, ces révolutionnaires ont décidé de prendre les armes pour le renverser. Réussiront-ils à s'emparer du pouvoir ou seront-ils écrasés comme tant de révolutions oubliées du passé ?"
-    DECENTRALIZED_FLAVOR_TEXT:0 "Enclavé par des puissances plus organisées, ce pays lutte pour maintenir son autonomie. Verra-t-il l'aube d'un nouveau siècle, ou son nom ne survivra-t-il que dans les livres d'histoire ?"
+l_english:
+    GENERIC_FLAVOR_TEXT:0 "The Cold War is a period of geopolitical tension between the Western Bloc and the Eastern Bloc. What new challenges will the times bring?"
+    REV_GENERIC_FLAVOR_TEXT:1 "Dissatisfied with the direction that the so-called organised government was taking, these revolutionaries have decided to take up arms to overthrow it. Will they succeed in seizing power or will they be crushed like so many forgotten revolutions of the past?"
+    DECENTRALIZED_FLAVOR_TEXT:0 "Encroached upon by more organised powers, this country struggles to maintain their autonomy. Will they see the dawn of a new century, or will their name survive only in history books?"
