@@ -319,7 +319,7 @@
     pm_large_jet_aircraft:0 "Grands Avions de Ligne"
     
     pm_no_hydroelectric_plant:0 "Pas d'Énergie Hydroélectrique"
-    pm_hydroelectric_plant:0 "Hydroelectric Power Plant"
+    pm_hydroelectric_plant:0 "Centrale hydroélectrique"
     
     pm_no_coal-fired_plant:0 "Pas d'Énergie à Charbon"
     pm_coal-fired_plant:0 "Centrale è Charbon"
@@ -860,7 +860,7 @@
     pmg_organisation_services:0 "Organisation"
     pmg_greeness_services:0 "Verdure"
     pmg_ownership_services:0 "Propriété"
-    pmg_worker_type_academia:0 "Academics Type"
+    pmg_worker_type_academia:0 "Type d'universitaires"
 
     pm_infantry_0:0 "Infanterie 0"
     pm_infantry_1:0 "Infanterie 1"
@@ -1200,18 +1200,18 @@
     
     pmg_monuments:0 "Attraction Touristique"
     building_machu_picchu:0 "Machu Picchu"
-    building_argebam:0 "Argebam"
-    building_chichen_itza:0 "Chichen Itza"
+    building_argebam:0 "Arg-é Bam"
+    building_chichen_itza:0 "Chichén Itzá"
     building_easter_island_heads:0 "Têtes de l'Île de Pâques"
     building_eye_of_sahara:0 "Œil du Sahara"
     building_khaju_bridge:0 "Pont Khadjou"
     building_petra:0 "Pétra"
     building_giza_necropolis:0 "Pyramides de Gizeh"
-    building_capitol_hill:0 "Capitol Hill"
-    building_central_park:0 "Parc Central de New York"l_english:
-    building_banana_plantation:0 "Fruit Plantations"
-    building_opium_plantation:0 "Narcotics Plantation"
-    building_consumer_robots_factory:0 "Robotics Factory"
+    building_capitol_hill:0 "Capitole"
+    building_central_park:0 "Parc Central de New York"
+    building_banana_plantation:0 "Plantations fruitières"
+    building_opium_plantation:0 "Plantation de narcotiques"
+    building_consumer_robots_factory:0 "Usine de robotique"
     building_pharmaceuticals_factory:0 "Pharmaceuticals Factory"
     building_engines_factory:0 "Machine Parts Factory"
     building_plastics_factory:0 "Plastics Factory"

@@ -624,7 +624,7 @@
     
     dp_unify_korea:0 "Unifier la Corée"
     
-    modifier_goods_output_mult:0 "Production"l_english:
+    modifier_goods_output_mult:0 "Production"
     has_aggressive_war_goal.tt:0 "Has aggressive [concept_war_goal]"
     has_no_aggressive_war_goal.tt:0 "Has no aggressive [concept_war_goal]"
     heritage_irish:0 "Irish"

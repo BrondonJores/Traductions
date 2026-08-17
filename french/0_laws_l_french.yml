@@ -255,7 +255,7 @@
     law_pro_industry_regulations_desc:0 "Le gouvernement a mis en place des réglementations qui favorisent le secteur industriel plutôt que le consommateur."
     
     #Monetary Policy
-    law_deflationary_monetary_policy_desc:0 "Le gouvernement vise à équilibrer le budget national."l_english:
+    law_deflationary_monetary_policy_desc:0 "Le gouvernement vise à équilibrer le budget national."
     law_no_term_limit:0 "No Term Limit"
     law_no_term_limit_desc:0 "The [concept_ruler] may remain in office for an unlimited number of terms."
     law_yes_term_limit:0 "Term Limited"

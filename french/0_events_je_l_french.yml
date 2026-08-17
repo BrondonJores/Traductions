@@ -1219,7 +1219,7 @@
     special_administrative_region_system.1.d:0 "[ROOT.GetCountry.GetName] a annoncé la création d'une nouvelle région administrative spéciale en [SCOPE.sCountry('SAR_country').GetName]. Cela permet à la population de [SCOPE.sCountry('SAR_country').GetName] une plus grande autonomie en matière de politique intérieure en échange d'une soumission à l'autorité [ROOT.GetCountry.GetAdjective]. La communauté internationale a accueilli cette nouvelle par des applaudissements chaleureux."
     special_administrative_region_system.1.f:0 "La Région Administrative Spéciale de [SCOPE.sCountry('SAR_country').GetName] est fondé sur le fait que la capitale de la région est une patrie de [ROOT.GetCountry.GetName]. Cette disposition empêchera le territoire de chercher à obtenir l'indépendance par le biais du système de décolonisation, car [SCOPE.sCountry('SAR_country').GetName] sera considérée comme appartenant de plein droit à [ROOT.GetCountry.GetName] en vertu du droit international."
     special_administrative_region_system_option:0 "Excellent !"
-    DIPLO_ACTION_CREATE_SAR_SUBJECT_TYPE:0 "Créer la Région Administrative Spéciale de [SCOPE.sCountry('SAR_country').GetName]"l_english:
+    DIPLO_ACTION_CREATE_SAR_SUBJECT_TYPE:0 "Créer la Région Administrative Spéciale de [SCOPE.sCountry('SAR_country').GetName]"
     chemical_dev_cost:0 "Chemical Weapons Development Cost"
     chemical_capability:0 "Chemical Weapons State"
     start_chemical_weapons_program_decision:0 "Start a Chemical Weapons Programme"
