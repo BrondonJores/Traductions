@@ -20,5 +20,5 @@
     ig_landowners:0 "Classe Supérieure Rurale"
     ig_devout:0 "Classe Moyenne Rurale"
     
-    ig_intelligentsia_only_icon:0 "@intelligentsia!"l_english:
-    ig_intelligentsia_desc:0 "The civil service is a collective term for a sector of government composed mainly of career civil service personnel hired rather than elected, whose institutional tenure typically survives transitions of political leadership."
+    ig_intelligentsia_only_icon:0 "@intelligentsia!"
+    ig_intelligentsia_desc:0 "La fonction publique est un terme collectif désignant un secteur du gouvernement composé principalement de fonctionnaires de carrière embauchés plutôt qu'élus, dont la permanence institutionnelle survit généralement aux transitions de pouvoir politique."

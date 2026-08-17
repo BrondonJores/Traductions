@@ -1,13 +1,13 @@
 ﻿l_french:  
 
   institution_gulag:0 "Réseau des Camps de Concentration"
-  institution_home_affairs:0 "Police Secrète"l_english:  
-  institution_gulag_desc:0 "Concentration Camps are places where forced labour, political incarcerations and mass executions are carried out."
-  institution_pop_growth:0 "Family Affairs Office"
-  institution_pop_growth_desc:0 "The Family Affairs Office is the body in charge of enacting population growth policies."
-  institution_espionage:0 "Intelligence Services"
-  institution_espionage_desc:0 "The Intelligence Service is a branch of the Government dealing in covert foreign operations."
-  institution_economic_planning_office:0 "Economic Planning Committee"
-  institution_economic_planning_office_desc:0 "The Economic Planning Committee is the agency responsible for central economic planning in the country. Its main task is the creation and administration of a series of five-year plans governing the national economy."
-  institution_environmental_protection_agency:0 "Environmental Protection Agency"
-  institution_environmental_protection_agency_desc:0 "The Environmental Protection Agency protects people and the environment from significant health risks, sponsors and conducts research, and develops and enforces environmental regulations."
+  institution_home_affairs:0 "Police Secrète"
+  institution_gulag_desc:0 "Les camps de concentration sont des endroits où le travail forcé, les incarcérations politiques et les exécutions de masse sont effectués."
+  institution_pop_growth:0 "Bureau des affaires familiales"
+  institution_pop_growth_desc:0 "Le Bureau des affaires familiales est l'organisme chargé d'adopter des politiques de croissance démographique."
+  institution_espionage:0 "Services de renseignement"
+  institution_espionage_desc:0 "Les Services de renseignement sont une branche du gouvernement qui s'occupe des opérations étrangères clandestines."
+  institution_economic_planning_office:0 "Comité de planification économique"
+  institution_economic_planning_office_desc:0 "Le Comité de planification économique est l'agence responsable de la planification économique centrale dans le pays. Sa tâche principale est la création et l'administration d'une série de plans quinquennaux régissant l'économie nationale."
+  institution_environmental_protection_agency:0 "Agence de protection de l'environnement"
+  institution_environmental_protection_agency_desc:0 "L'Agence de protection de l'environnement protège la population et l'environnement contre des risques importants pour la santé, parraine et mène des recherches, et élabore et applique la réglementation environnementale."
