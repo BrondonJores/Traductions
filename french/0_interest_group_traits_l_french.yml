@@ -11,6 +11,5 @@
 
     ig_trait_corporate_productivity:0 "Forte Productivité au Travail"
     ig_trait_corporate_idleness:0 "Faible Productivité au Travail"
-l_english:
-    ig_trait_compliant_civil_service_desc:0 "Bureaucrats are loyal to the state and will execute any commands with zeal."
-    ig_trait_hostile_civil_service_desc:0 "Bureaucrats are disloyal to the state and will refuse to execute any commands with zeal."
+    ig_trait_compliant_civil_service_desc:0 "Les bureaucrates sont loyaux envers l'État et exécuteront tous les ordres avec zèle."
+    ig_trait_hostile_civil_service_desc:0 "Les bureaucrates sont déloyaux envers l'État et refuseront d'exécuter les ordres avec zèle."
